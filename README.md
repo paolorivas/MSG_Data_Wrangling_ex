@@ -1,7 +1,7 @@
 # MSG_Data_Wrangling_ex
 MSG data wrangling exercise
 
-Awnsers to instruction document can be found in this Jupyter notebook:
+The complete answers and explanations to the coding test can be found in this Jupyter notebook:
 
 https://github.com/paolorivas/MSG_Data_Wrangling_ex/blob/main/MSG_Data_Exercise_PR.ipynb
 
